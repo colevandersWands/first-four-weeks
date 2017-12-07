@@ -1,0 +1,11 @@
+js
+	array of users
+	array of messages
+	CRUD functions
+
+html
+	home - all profiles
+	read profiles
+	create profile
+	delete profile
+	update profile
