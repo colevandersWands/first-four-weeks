@@ -9,3 +9,7 @@ no
 * architecture  
 * testing  
 * front/back end  
+
+___
+___
+### [<img src="./graph/img/JL_clean.png" width="40" height="40" />  jankeLearning ](https://github.com/jankeLearning)

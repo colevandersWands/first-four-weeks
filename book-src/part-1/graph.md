@@ -17,4 +17,4 @@ This content is under active development. If you like what you see, stop by regu
 
 ___
 ___
-### [<img src="./img/JL_clean.png" width="40" height="40" />  jankeLearning ](https://github.com/jankeLearning)
+### [<img src="./graph/img/JL_clean.png" width="40" height="40" />  jankeLearning ](https://github.com/jankeLearning)
