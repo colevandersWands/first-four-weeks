@@ -1,7 +1,7 @@
 
-<script type="text/javascript" src="js/vis-minified.js"></script>
-<link href="style/vis-network.min.css" rel="stylesheet" type="text/css"/>
-<link href="style/my-network.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="graph/js/vis-minified.js"></script>
+<link href="graph/style/vis-network.min.css" rel="stylesheet" type="text/css"/>
+<link href="graph/style/my-network.css" rel="stylesheet" type="text/css"/>
 
 ## Preview - the sample
 
@@ -10,7 +10,7 @@
 * We recommend starting a lesson only after you've finished all of the lessons pointing directly to it.
 
 <div id="mynetwork"></div>
-<script type="text/javascript" src="js/network.js"></script>
+<script type="text/javascript" src="graph/js/network.js"></script>
 This content is under active development. If you like what you see, stop by regularly for new lessons as they are released!
 
 
