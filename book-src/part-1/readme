@@ -18,6 +18,8 @@ LO's
 		general stuff
 		using our content
 	vocabulary
+	abstraction
+		acm paper
 
 navigation
 	graph
@@ -26,3 +28,28 @@ navigation
 
 assessments
 	one per project
+	peer assessments
+		the code itself
+		navigate each user story and comment
+		undirected navigation
+	both hierarchies
+		krathwohl - mvc - pg 4 acm
+		favor krathwohl over bloom?
+
+characterize graduate - from ACM
+	the Krathwohl affective hierarchy
+		in this course you are to learn more than skills
+		you are to learn ways of thinking
+		ways of being
+		you will change to become a good developer
+	have krathwohled the threshold concepts
+	a jankeLearning developer
+		- always code as if the person who ends up maintaining your code is a violent psychopath who knows where you live.
+		- appreciates abstraction when done well
+		- ALMOST enjoys reading source code
+		- ALMOST enjoys reading and writing documentation
+		- ALMOST enjoys maintaining their code
+		- ALMOST enjoys testing their code
+		• strongly and consistently advocates a user centered
+		perspective
+		...

@@ -7,4 +7,4 @@
 * [Part 3](./part-1/intro.md)
 	* [learning objectives](./part-1/learning-objectives.md)  
 	* [the graph](./part-1/graph.md)
-* [wiki](https://github.com/jankeLearning/curriculum/wiki)
+<!-- * [wiki](https://github.com/jankeLearning/curriculum/wiki) -->
