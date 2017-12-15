@@ -1,0 +1,53 @@
+authenticity
+	assign students into groups of 2-3
+	use trello// to track progress through assessments/projects
+
+
+example assessment
+	1
+		read code
+		write SOLO graded description
+	2
+		be given similar code
+		fix a couple bugs
+		fill in some empty lines
+	3
+		be given a well defined (nearly code) problem
+		write code for it
+	4
+		be given a problem in words
+		interpret it
+		code a solution
+
+incoming assessment
+	ask about topics known to be early hurdles
+	- basic tracing
+	- variable assignment
+	- see sorva thesis apendix a, and 
+		- notmatch, 3 weeks, robins
+	- story-state matching given code
+	- appendix a sorva thesis
+
+
+and criteria for peer-grading of projects
+
+"weekly" assessments: (really by graph node)
+	one-on-one (we sit with them):
+		developing notional machine, code understanding:
+			they come prepared with paragraph explanations of some code we assign
+			and talk about some fresh code together
+		they plan a small project up to specs and tests then write the code
+		sorva short pg 6
+			Sajaniemi et al. [2008] elicited the understandings that novice programmers have of program state by having CS1 students draw and write about how they perceived given Java programs’ state at specific stages of execution. 
+	automated:
+		some help here
+		or replace automation with peer grading.  see below
+	peer grading and code reviewing
+
+theoretical tools
+	learning objectives
+		Bl's T
+	learning outcomes
+		SOLO - from Sorva thesis
+			2.2.2
+			phenominography - notmatch
